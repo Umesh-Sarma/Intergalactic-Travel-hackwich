@@ -37,3 +37,5 @@ struct StarLink: View {
         }
     }
 }
+
+//I added a comment
